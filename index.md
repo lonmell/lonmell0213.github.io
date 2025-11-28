@@ -2,7 +2,12 @@
 layout: default
 title: 안드로이드 개발자 방창배 포트폴리오
 ---
-
+<style>
+  /* Slate 테마의 기본 콘텐츠 폭을 조금 넓혀줌 */
+  .wrapper {
+    max-width: 1100px;  /* 필요하면 1000~1200 사이로 숫자 조절 */
+  }
+</style>
 <div style="margin-bottom:24px;">
   <div
     style="
