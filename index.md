@@ -3,13 +3,29 @@ layout: default
 title: 안드로이드 개발자 방창배 포트폴리오
 ---
 
-# 안드로이드 개발자 방창배
+<div style="display:flex; align-items:center; gap:16px; flex-wrap:wrap; margin-bottom:16px;">
 
-시각장애인 보조기기·모바일 서비스와 공공 R&D 과제를 중심으로  
-약 7년간 안드로이드 앱을 개발해 온 개발자입니다.
+  <img src="images/profile_img.png"
+       alt="안드로이드 개발자 방창배 프로필 이미지"
+       style="width:96px; height:96px; border-radius:50%; object-fit:cover;">
 
-- 이메일: lonmell0213@gmail.com  
-- GitHub: [방창배 깃 허브로 이동](https://github.com/lonmell)
+  <div>
+    <h1 style="margin-bottom:4px;">안드로이드 개발자 방창배</h1>
+    <p style="margin:4px 0 8px 0;">
+      시각장애인 보조기기·모바일 서비스와 공공 R&amp;D 과제를 중심으로<br>
+      약 7년간 안드로이드 앱을 개발해 온 개발자입니다.
+    </p>
+    <p style="margin:0; font-size:0.95rem;">
+      <strong>이메일</strong>:
+      <a href="mailto:lonmell0213@gmail.com">lonmell0213@gmail.com</a><br>
+      <strong>GitHub</strong>:
+      <a href="https://github.com/lonmell" target="_blank" rel="noopener noreferrer">
+        방창배 깃 허브로 이동
+      </a>
+    </p>
+  </div>
+
+</div>
 
 ---
 
