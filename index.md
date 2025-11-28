@@ -18,7 +18,7 @@ title: 안드로이드 개발자 방창배 포트폴리오
       <img src="images/profile_img.png"
            alt="안드로이드 개발자 방창배 프로필 이미지"
            style="width:72px; height:72px; border-radius:50%; object-fit:cover;">
-      <h1 style="margin:0;">Android & Mobile Developer 방창배</h1>
+      <h1 style="margin:0;">Android & Mobile Developer</h1>
     </div>
     <!-- 아래: 소개 문장 + 연락처 -->
     <p style="margin:0 0 8px 0; font-size:0.95rem;">
